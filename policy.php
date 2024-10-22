@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Usage policy</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<?php include 'assets/php/header.php'; ?>
+
+  <main id="main" data-aos="fade-up">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Usage Policy</h2>
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li>Usage Policy</li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <section class="privacy">
+      <div class="section-title">
+        <h2>Policies</h2>
+        <h3><span>Usage Policy</span></h3>
+        <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae
+          autem.</p>
+      </div>
+      <div class="container">
+        <div class="card">
+          <div class="card-header">
+            Usage Policy
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Terms and Conditions</p>
+              <footer class="blockquote-footer">Please review all the conditions and instructions under which the
+                Autobus Company reserves tickets for any person, and these conditions are on every ticket issued by us
+                and determine the legal foundations on the part of the company towards the passenger (traveler). Any
+                person traveling on a ticket service is considered to have agreed to these terms and conditions, which
+                are stated as follows:</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>General terms and conditions</p>
+              <footer class="blockquote-footer">The traveler must be at the station 30 minutes before departure for the
+                flight. This is to enable it to save time on cargo trips on board the bus, stopping any delay. · The bus
+                only stops the bus/airline drop-off at the official stations according to the itinerary and the excuse
+                for the trip. · Arriving at the station before the trip time is the absolute responsibility of the
+                traveler. If the traveler does not arrive at the flight time, the ticket is considered canceled and the
+                cancellation of the value does not include any refund or compensation. · The bus is not allowed to
+                return to the station or control point again to pick up passengers missing the departing trip after the
+                bus has been stationed. · A trip may be canceled or its date may be modified, and this may be a result
+                of factors beyond the company’s control, such as weather, road accidents, security instructions,
+                emergency technical problems, or any other force majeure circumstances. In this case, the traveler has
+                the right to claim compensation for the value of the ticket from the bus company, with a percentage
+                deduction from The cost of the ticket, if any. · Autobus is not responsible for any additional expenses
+                that the traveler may incur in the event that he misses a specific appointment due to a delay in the
+                departure or arrival time. There is no right to demand any compensation or refund in the event of a
+                delay of an hour or less from the scheduled time of the flight. · The traveler must adhere to the
+                driver’s instructions during the trip, and the traveler is responsible for any damage he may cause to
+                the seats, display screens, or any equipment in the bus lounge, and the traveler bears the value of the
+                damage and damage, as well as legal accountability in the event he refuses the compensation specified by
+                the company. · In the event that the traveler desires By expressing any comments or notifying a problem
+                or complaint regarding the service, the traveler can submit a notification to the company through
+                official channels such as the company branch or the official website on the Internet, within five days
+                from the date of arrival, and the complaint submitted will be investigated and the traveler will be
+                returned within 30 days.</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Booking instructions·</p>
+              <footer class="blockquote-footer">The ticket is valid and valid for the service specified in it and is
+                illuminated with the restrictions or data written on it upon issuance, such as the type of service,
+                travel maps, the specific day and hour, the price and all other data, provided that 10 pounds are added,
+                but I am limited to the total premium value upon completion of the reservation. The traveler must
+                confirm well before registering. With the flight route, departure time, boarding station, services for
+                each bus, the name of the land transport bus company, and the meaning of payment is that you are sure
+                and fully aware of all the information mentioned above. The traveler must check well before booking the
+                trip route, departure time, boarding station, services for each bus, the name of the land transport bus
+                company, and the meaning of payment is that you have confirmed and are fully aware of all the
+                information mentioned above. You must keep your ticket (example: immediate arrival). ) during the trip
+                and must be presented if requested for examination. If you do not have your ticket with you on the bus
+                and it turns out that you did not book in advance, you must pay the price of another ticket according to
+                the availability of seats, and then the ticket will be purchased through the driver only, with the
+                prescribed fine paid for that. The bus company will not replace any lost or stolen tickets, and in the
+                event that it is not possible to issue a replacement for a lost ticket, the traveler must purchase
+                another ticket according to the announced ticket value in order to be able to travel. In the event of an
+                increase or decrease in the announced ticket prices after purchasing the ticket, the company has no
+                right to demand payment. Or refund the price difference. Discounted tickets for offers cannot be
+                refunded. It is possible for the driver to issue a ticket to the passenger at the time of departure if
+                there are vacant seats on the bus (return to the driver or the bus company). Land transport companies
+                contracting with a ticket have the right to amend the daily flight schedule or modify ticket prices
+                without Advance notification.</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Cancellation Policy·</p>
+              <footer class="blockquote-footer">In the event of non-attendance to travel on the flight specified in the
+                ticket, the ticket becomes void and the traveler is not entitled to request a refund of the value of the
+                ticket or to use it on another flight. · He is not entitled to request a refund of the value of a ticket
+                that does not exist, is lost or has been stolen if it becomes clear that the traveler has not made the
+                reservation. - He is not entitled to request a refund of the value A ticket on which a discount was
+                applied through an offer or promo code. It is not permissible to request a refund of the value of a
+                ticket paid in cash or through various payment methods, provided that the due value is refunded to the
+                customer’s balance on his discount card. The ticket cannot be sold to others.</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Online reservation and payment</p>
+              <footer class="blockquote-footer">The reservation will be canceled automatically from the Tazar website or
+                mobile application in the event of non-payment within two hours of the reservation time with the Fawry
+                service. In the case of electronic reservation, please verify all the data that appears on the
+                reservation screen of the website or mobile application of the Tazar Company. The passenger must show
+                the reservation text message sent by the bus company via SMS or email if the inspector or reservation
+                supervisor asks him to. The maximum number of tickets for reservation is only 8 tickets, distributed
+                between the way and back. If you want other tickets, pay at the nearest Fawri outlet or using Visa, and
+                after that the traveler can choose 8 other tickets. · The customer’s discount card is automatically
+                added and the customer can charge the card. And use it in the payment process, provided that 3% service
+                fees are added during the card charging process</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Return Policy</p>
+              <footer class="blockquote-footer">The customer has the right to refund the value of the tickets after
+                applying the specified fine (maximum 10 pounds per ticket) up to 5 hours before the trip. In the event
+                that the price of the tickets is returned for reasons or force majeure from the bus company, the value
+                of the tickets will be refunded to the customer’s balance on his discount card. The bus company does not
+                insure passengers detained through our website or mobile application, and we are not responsible for the
+                accidents that happen, God forbid, to passengers through the land transport companies that contract with
+                us, and may God protect everyone.</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Payback period</p>
+              <footer class="blockquote-footer">In the event that the price of tickets is refunded for reasons or force
+                majeure from the bus company, the value of the tickets will be refunded to the customer’s balance within
+                a period ranging from two to 10 working days on his discount card.</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Travel instructions:</p>
+              <footer class="blockquote-footer">Make sure you are on the correct bus: The traveler must ensure that he
+                is on the correct bus heading to the specific place he has booked. · Stopping for a break: In the case
+                of stopping for a rest stop, you must return to the bus at the exact time available for the break. The
+                company is not required to delay the bus’s departure time to wait for a traveler. It is not entitled to
+                demand the payment of any compensation or any additional expenses that may occur as a result of the
+                traveler’s failure to schedule the bus’s departure from the rest area. Seat belts: The passenger is
+                legally required to wear the seat belt available in the seat at all times during the trip. Smoking is
+                prohibited whether on board the bus or at the station, and based on the fact that there is no evidence
+                about the safety of electronic cigarettes, we ask our valued customers not to use them also while on
+                board buses. Land transport companies contracting with us</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Children's travel:</p>
+              <footer class="blockquote-footer">Children under 4 years old are issued a full ticket. No seat is
+                allocated for children under 4 years old, and no fees are paid for their transportation, provided that
+                they are accompanied by their families.</footer>
+            </blockquote>
+          </div>
+          <div class="card-body">
+            <blockquote class="blockquote mb-0">
+              <p>Bags and shipping</p>
+              <footer class="blockquote-footer">Bags are loaded on the bus at the responsibility of their owners, and
+                the standard provisions for land transportation apply. Each passenger is allowed 2 medium-sized bags,
+                provided that the total weight does not exceed 35 kilograms, in addition to a small handbag that can be
+                placed in the designated rack on the bus above the seats or in the space under the seat. Passenger. ·
+                Shipping fees may be applied to any bag or additional shipment with the traveler according to the
+                shipping fees determined at the travel stations, and the traveler must pay the due value before the time
+                of travel on the bus. The traveler is obligated, at his personal responsibility, to ensure that he
+                receives the label of each bag or shipment belonging to him, issued by the reservation offices (at the
+                travel station) of the land transport companies contracting with the bus. The bus company is not
+                responsible for the passengers’ belongings or their loss or damage inside the bus or the boarding
+                station. This is the passenger's responsibility. If any bag or belongings belonging to another passenger
+                is found on the bus or at the station, the passenger must hand them over immediately. If you find any
+                belongings on the bus, please hand them over immediately to the driver.</footer>
+                <footer class="blockquote-footer">In the event that the bus is late for the scheduled time due to road conditions, crowding, or otherwise, the customer is not entitled to claim any compensation from the company.</footer>
+                <footer class="blockquote-footer">In the event that the trip is canceled through the company, only the ticket price will be refunded to the customer without any other additional expenses.</footer>
+              </blockquote>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+
+  </main><!-- End #main -->
+
+  <?php include 'assets/php/footer.php'; ?>
+
+  <div id="preloader">
+    <div class="loader-wrapper">
+      <div class="truck-wrapper">
+        <div class="truck">
+          <div class="truck-container"></div>
+          <div class="glases"></div>
+          <div class="bonet"></div>
+
+          <div class="base"></div>
+
+          <div class="base-aux"></div>
+          <div class="wheel-back"></div>
+          <div class="wheel-front"></div>
+
+          <div class="smoke"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
